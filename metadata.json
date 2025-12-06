@@ -1,0 +1,5 @@
+{
+  "name": "Codeforces Companion & AI Coach",
+  "description": "A professional dashboard for Codeforces users to track contests, view problems, identify solved tasks, and receive AI-powered hints for practice.",
+  "requestFramePermissions": []
+}
